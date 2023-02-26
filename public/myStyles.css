@@ -1,0 +1,87 @@
+.text-color{
+    color: #fff;
+    font-size: 20px;
+}
+.bg-img{
+        /* background: linear-gradient(rgba(0, 0, 0, 0.9),rgba(0,0,0,0.9),url('../public/hero-image.jpg')) ; */
+        background-size: cover;
+        background-position: center;
+        position: relative;
+}
+
+.a-tag{
+    text-decoration: none;
+}
+
+.heading1{
+    font-size: 60px;
+    color: rgb(21, 46, 121);
+}
+.paragraph1{
+    font-size: 20px;
+    color: rgb(100, 100, 100);
+}
+.paragraph2{
+    font-weight: bolder;
+    color: rgb(21, 46, 121);
+}
+.section1{
+    /* background-color: rgba(0, 0, 0, 0.301); */
+}
+
+.black{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.51);
+}
+.text-container {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  
+  .title {
+    color: white;
+    font-size: 7rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    margin-left: 22rem;
+  }
+  
+  .subtitle {
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 22rem;
+  }
+ 
+  
+  .section3{
+
+    background-color: rgb(228, 219, 220);
+  }  
+
+  .heading3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10rem;
+    margin-bottom: 6rem;
+    font-size: 30px;
+    color: rgb(21, 46, 121);
+  }
+  .card-img{
+    font-size: 40px;
+    margin-left: 100px;
+  }
+  
+  .footer-bottom{
+    background-color: rgba(0, 0, 0, 0.05);
+  }
+  .line-footer{
+    margin-left: 600px;
+  }
+  .footer-bg{
+    background-color:rgba(146, 179, 179, 0.228);
+  }
